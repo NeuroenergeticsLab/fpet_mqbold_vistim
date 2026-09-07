@@ -1,3 +1,3 @@
-# fpet_mqbold_vistim
+# Region-specific uncoupling of oxygen and glucose metabolism in the human cortex during visual stimulation
 
 This is the code and main data associated with our article [Region-specific uncoupling of oxygen and glucose metabolism in the human cortex during visual stimulation](https://doi.org/10.1101/2024.10.11.617828)  (under review), by Samira Epp & Antonia Bose, ... Gabriel Castrillon & Valentin Riedl. The manuscript figures are already rendered in the notebook [scripts/Manuscript Figures.ipynb](https://github.com/NeuroenergeticsLab/fpet_mqbold_vistim/blob/main/scripts/Manuscript%20Figures.ipynb).
