@@ -1,21 +1,21 @@
-sess_id	experiment	H_START	M_START	S_START	sex	yob	age (y)	height (cm)	weight (kg)	bmi (body mass index)	Time corrected dose (MBq)	blood sugar (avg before & after)/18	hematocrit	H_FINISH	M_FINISH	S_FINISH
-fp001-petmri	MR Session	10	8	56	F	1975	44	168	69	24.7	198	5.33	0.4	11	18	56
-fp002-petmri	PET MR Session	9	56	4	F	1964	55	153	49	21.2	163.8	5	408	11	3	19
-fp003-petmri	MR Session	10	13	51	M	1996	23	187	104	30.3	315	4.75	407	11	23	51
-fp004-petmri	MR Session	10	20	13	F	1985	34	169	66.7	23.4	221	4.83	409	11	30	13
-fp005-petmri	PET MR Session	10	22	44	F	1997	22	175	70.4	23	240	4.81	0	11	32	44
-fp006-petmri	PET MR Session	10	0	53	M	1975	45	178	74.8	23.6	315.5	5.67	415	11	10	53
-fp007-petmri	MR Session	10	17	49	F	1989	31	167	76.8	27.5	267	3.83	411	11	27	49
-fp008-petmri	PET MR Session	9	59	33	M	1995	25	184	97.3	28.8	365	2.22	399	11	9	33
-fp009-petmri	PET MR Session	10	4	0	F	1996	24	165	76.6	28	311		391	11	14	0
-fp010-petmri	PET MR Session	10	29	10	F	1976	44	178	83.6	26.4	341	4.58	414	11	39	10
-fp011-petmri	PET MR Session	9	42	1	F	1988	32	175	76.1	24.8	347	4.53	0.39	10	52	1
-fp012-petmri	PET MR Session	10	22	0	M	1989	31	191	101.8	29.5	347	5.61	0.44	11	33	0
-fp013-petmri	PET MR Session	10	0	30	F	1996	24	168	60.6	21.5	247	4.25	398	11	10	30
-fp014-petmri	PET MR Session	10	10	0	F	1997	23	168	70.3	27.5	294	5.19	414	11	20	0
-fp015-petmri	PET MR Session	14	9	9	M	1995	25	188	93	26.3	350	                                                                                                                                                                                            	431	15	17	6
-fp016-petmri	MR Session	9	38	16	M	1988	33	187	73		267	4.56	0.42	10	39	16
-fp017-petmri	PET MR Session	10	21	23	M	1990	31	182	89	27	345	4.44	466	11	31	23
-fp018-petmri	PET MR Session	10	4	50	M	1990	31	180	78	24.1	224	5.14	468	11	14	50
-fp019-petmri	PET MR Session	10	0	31	M	1996	24	184.5	65.2	19.2	249	4.97	423	11	10	31
-fp020-petmri	MR Session	12	6	7	F	1996	25	164	58.2	21.5	203	4.25	419	0	0	0
+sess_id	experiment	H_START	M_START	S_START	sex	(y)	height (cm)	weight (kg)	bmi (body mass index)	Time corrected dose (MBq)	blood sugar (avg before & after)/18	hematocrit	H_FINISH	M_FINISH	S_FINISH
+fp001-petmri	MR Session	10	8	56	F	168	69	24.7	198	5.33	0.4	11	18	56
+fp002-petmri	PET MR Session	9	56	4	F	55	153	49	21.2	163.8	5	408	11	3	19
+fp003-petmri	MR Session	10	13	51	M	187	104	30.3	315	4.75	407	11	23	51
+fp004-petmri	MR Session	10	20	13	F	169	66.7	23.4	221	4.83	409	11	30	13
+fp005-petmri	PET MR Session	10	22	44	F	175	70.4	23	240	4.81	0	11	32	44
+fp006-petmri	PET MR Session	10	0	53	M	178	74.8	23.6	315.5	5.67	415	11	10	53
+fp007-petmri	MR Session	10	17	49	F	167	76.8	27.5	267	3.83	411	11	27	49
+fp008-petmri	PET MR Session	9	59	33	M	184	97.3	28.8	365	2.22	399	11	9	33
+fp009-petmri	PET MR Session	10	4	0	F	165	76.6	28	311		391	11	14	0
+fp010-petmri	PET MR Session	10	29	10	F	178	83.6	26.4	341	4.58	414	11	39	10
+fp011-petmri	PET MR Session	9	42	1	F	175	76.1	24.8	347	4.53	0.39	10	52	1
+fp012-petmri	PET MR Session	10	22	0	M	191	101.8	29.5	347	5.61	0.44	11	33	0
+fp013-petmri	PET MR Session	10	0	30	F	168	60.6	21.5	247	4.25	398	11	10	30
+fp014-petmri	PET MR Session	10	10	0	F	168	70.3	27.5	294	5.19	414	11	20	0
+fp015-petmri	PET MR Session	14	9	9	M	188	93	26.3	350	                                                                                                                                                                                            	431	15	17	6
+fp016-petmri	MR Session	9	38	16	M	187	73		267	4.56	0.42	10	39	16
+fp017-petmri	PET MR Session	10	21	23	M	182	89	27	345	4.44	466	11	31	23
+fp018-petmri	PET MR Session	10	4	50	M	180	78	24.1	224	5.14	468	11	14	50
+fp019-petmri	PET MR Session	10	0	31	M	184.5	65.2	19.2	249	4.97	423	11	10	31
+fp020-petmri	MR Session	12	6	7	F	164	58.2	21.5	203	4.25	419	0	0	0
